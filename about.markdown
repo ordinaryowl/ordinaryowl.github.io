@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A rudimentary website.
+Just a rudimentary website.
 
 
 [GitHub Projects]: https://github.com/ordinaryowl
