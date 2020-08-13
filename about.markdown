@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A jobless physics grad student creating almost useless projects :P
+A rudimentary website.
 
 
 [GitHub Projects]: https://github.com/ordinaryowl
