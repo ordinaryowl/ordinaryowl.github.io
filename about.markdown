@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Just a rudimentary website.
+This is a place to curate random (and hopefully fun) snippets. 
 
 
 [GitHub Projects]: https://github.com/ordinaryowl
