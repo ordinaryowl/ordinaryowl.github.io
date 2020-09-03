@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: **R**andom **S**nippet **P**lace
+title: Random Snippet Place
 email: rohit.3197@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ordinary blog posts
