@@ -21,7 +21,7 @@
 title: Random Snippet Place
 email: rohit.3197@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Ordinary blog posts
+  blog posts
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
